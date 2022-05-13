@@ -1,6 +1,6 @@
-### Ola! Sou o Guilherme Vargas👋
+##Hello, my name is Guilherme Vargas👋.
 
-- 🌱 Estou estudando Desenvolvimento-Web na Trybe
+-🌱 I'm studying Web Development at Trybe
 
 <div align="center">
   <a href="https://github.com/Vargazz">
