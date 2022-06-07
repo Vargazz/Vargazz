@@ -1,6 +1,6 @@
 ##Hello, my name is Guilherme Vargas👋.
 
--🌱 I'm studying Web Development at Trybe
+-🌱 I'm studying Software Development at Trybe
 
 <div align="center">
   <a href="https://github.com/Vargazz">
