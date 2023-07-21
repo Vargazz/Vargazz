@@ -1,6 +1,6 @@
 ##Hello, my name is Guilherme Vargas👋.
 
--🌱 I'm a full stack web development student at Trybe
+-🌱 I'm a full stack web development
 
 <div align="center">
   <a href="https://github.com/Vargazz">
