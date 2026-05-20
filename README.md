@@ -10,32 +10,6 @@ Full Stack Developer • .NET • Angular • React • AWS
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Vargazz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vargazz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-</a>
-
-<a href="https://github.com/Vargazz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vargazz&layout=compact&langs_count=10&theme=tokyonight&border_radius=10"/>
-</a>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vargazz&theme=tokyonight&border_radius=10"/>
-
-</div>
-
----
-
 # 🛠️ Tech Stack
 
 ## 🎨 Front-End
@@ -140,4 +114,3 @@ Full Stack Developer • .NET • Angular • React • AWS
 ### 🚀 Passionate about technology, scalable solutions and continuous learning.
 
 </div>
-```
