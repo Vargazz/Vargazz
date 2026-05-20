@@ -10,83 +10,6 @@ Full Stack Developer • .NET • Angular • React • AWS
 
 ---
 
-# 🚀 About Me
-
-```csharp
-public class GuilhermeVargas
-{
-    public string Role = "Full Stack Developer";
-
-    public string Company = "Galapagos Capital";
-
-    public string Focus =
-        "Front-End and Back-End Development";
-
-    public string[] FrontEnd =
-    {
-        "Angular",
-        "React",
-        "React Native",
-        "Flutter",
-        "JavaScript",
-        "TypeScript",
-        "HTML",
-        "CSS",
-        "Dart"
-    };
-
-    public string[] BackEnd =
-    {
-        "C#",
-        ".NET",
-        "Node.js",
-        "PHP",
-        "Laravel",
-        "Python"
-    };
-
-    public string[] Database =
-    {
-        "MySQL",
-        "PostgreSQL",
-        "MongoDB"
-    };
-
-    public string[] Cloud =
-    {
-        "AWS S3",
-        "AWS Cognito",
-        "API Gateway",
-        "CloudWatch"
-    };
-
-    public string[] Testing =
-    {
-        "xUnit",
-        "NUnit",
-        "Jest",
-        "Cypress",
-        "Selenium"
-    };
-
-    public string[] Tools =
-    {
-        "Docker",
-        "Git",
-        "Linux",
-        "Azure DevOps"
-    };
-
-    public string[] Methodologies =
-    {
-        "Scrum",
-        "Agile"
-    };
-}
-```
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
@@ -191,26 +114,6 @@ public class GuilhermeVargas
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vargazz&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vargazz&theme=tokyonight&row=1&column=6"/>
-
-</div>
-
----
-
-# 🐍 Snake Contribution
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vargazz/Vargazz/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
