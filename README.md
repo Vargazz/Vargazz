@@ -83,16 +83,6 @@ Full Stack Developer • .NET • Angular • React • AWS
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vargazz&theme=tokyo-night"/>
-
-</div>
-
----
-
 # 🌎 Connect With Me
 
 <div align="center">
